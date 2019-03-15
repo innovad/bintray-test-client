@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    jcenter()
+    maven { url "https://dl.bintray.com/innovad/ch.zhaw.iwi.test" }
+}
+
+dependencies {
+	compile 'testgroup:zhawiwitest:1.0.5'
+}
+

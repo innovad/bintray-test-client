@@ -1,0 +1,10 @@
+*.class
+
+bin/
+gen/
+
+.classpath
+.project
+
+.gradle/
+build/
